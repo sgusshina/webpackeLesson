@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,QAEA,oBAAqB,CADrB,WAEA","sources":["webpack://webpack/./css/style.css"],"sourcesContent":[".lesson {\nwidth: 200px;\nbackground-color: red;\n}"],"names":[],"sourceRoot":""}
